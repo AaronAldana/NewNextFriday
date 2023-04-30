@@ -1,2 +1,2 @@
 # NewNextFriday
-Created with CodeSandbox
+Homepage of the most innovative Financial Institution
